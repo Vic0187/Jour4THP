@@ -1,3 +1,8 @@
+body{
+    /* Google Font*/
+    font-family: 'Montserrat', sans-serif;
+}
+
 .jumbotron1 {
     /* Choisis la hauteur ici */
     height: 50vh;
